@@ -2,7 +2,8 @@
 Introduction to Scientific Programming: C Language
 <br />
 <img src="https://media.giphy.com/media/x2A1phuamghcQ/giphy.gif" width="375px">
-Files:
+<br />
+<h1>Files:</h1>
 <h2> zae1.c </h2>
 This program will print out the volume of a box, cylinder, and a frustum.
 <h2> zae2.c </h2>

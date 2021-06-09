@@ -1,5 +1,5 @@
 # UNH CS410
-Introduction to Scientific Programming: C Language
+<b>Introduction to Scientific Programming: C Language</b>
 <br />
 <img src="https://media.giphy.com/media/x2A1phuamghcQ/giphy.gif" width="375px">
 <br />

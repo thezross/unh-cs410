@@ -14,3 +14,5 @@ This program repeadly prompts for and reads in a floating point number (type dou
 The program repeatedly reads in an integer (type int) and floating point numbers (type double).  The integer selects the calculation type.  If a delta is entered less then zero, then it is assigned .0001.  If an integer is anything other then one, two, or three, then it is not aknowledged for that loop.     
 <h2> zae5.c </h2>
 This program find the roots of a function, that is, given a function to find a value of x where f(x)=0.  The bisection method is the root-finding algorithm used to find the roots of functions (approximating) the root of a function.  Several functions will carry out these needs.  
+<h2> zae6.c </h2>
+ Reads floating point numbers into an array and performs some simple statistics on the array (mean, variance, standard deviation).  
